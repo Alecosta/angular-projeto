@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Tools used
+
+* [VSCode](https://code.visualstudio.com/) - to edit
+* [dribbble.com](https://dribbble.com/) - to get image layout inspiration
+* [Draw.io](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)  - to draw notes over image layout
+
