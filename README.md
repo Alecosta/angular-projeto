@@ -32,3 +32,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * [dribbble.com](https://dribbble.com/) - to get image layout inspiration
 * [Draw.io](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)  - to draw notes over image layout
 
+## Steps
+
+* Preparando seu ambiente de produção e versionando no Github
+* Enxergando os componentes em um Layout
+* Criando a base dos components
+* Menu Title
+* Criando a estrutura do big card
